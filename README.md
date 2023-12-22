@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I am Akib
 #### Front-end Developer
-![Front-end Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/409035219_1212244619750454_294616113239692119_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFQnOXII9eqifkz6LE8jVMfGbT4owuJdAYZtPijC4l0BngXqmRJggidEe5iUCikztjB9hzLDPQDPn9UfqzufM_i&_nc_ohc=AIvSyBWLVoMAX8o9il9&_nc_ht=scontent.fdac135-1.fna&oh=00_AfAAY-bGcA9N3zs2wJcYhbfGiiWLRTPB9x6M9yREstUbtQ&oe=6589B69A)
 
 My identity is Kazi Wahidur Rahman Akib. I am web designer and i am expert in Front-end Developer.I know how psd to html,figma to html,xd to html,css and I know how to make a website responsive. I have been working on this for almost 2+ years. , and I enjoy experimenting with code.I work tirelessly to meet the needs of my clients. On a regular basis, I meet deadlines and deliver projects on time🕛. I strive to meet the needs of my customers.
 
